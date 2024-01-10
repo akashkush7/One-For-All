@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/One-For-All/static/css/main.5d05e92d.css",
-    "main.js": "/One-For-All/static/js/main.26a041bd.js",
+    "main.js": "/One-For-All/static/js/main.934231bb.js",
     "static/media/Bankoffers.gif": "/One-For-All/static/media/Bankoffers.b0049479d16f7f431fa0.gif",
     "static/media/Os.gif": "/One-For-All/static/media/Os.8ac506053dd20ec29afe.gif",
     "static/media/Hotels.gif": "/One-For-All/static/media/Hotels.643c3232ad75a9d444e4.gif",
@@ -46,10 +46,10 @@
     "static/media/Freshtohome.gif": "/One-For-All/static/media/Freshtohome.d1dad04e6cb26bb6e7b8.gif",
     "index.html": "/One-For-All/index.html",
     "main.5d05e92d.css.map": "/One-For-All/static/css/main.5d05e92d.css.map",
-    "main.26a041bd.js.map": "/One-For-All/static/js/main.26a041bd.js.map"
+    "main.934231bb.js.map": "/One-For-All/static/js/main.934231bb.js.map"
   },
   "entrypoints": [
     "static/css/main.5d05e92d.css",
-    "static/js/main.26a041bd.js"
+    "static/js/main.934231bb.js"
   ]
 }
