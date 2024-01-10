@@ -29,6 +29,7 @@ const App = () => {
                 <Route exact path='/about' element={<Common name={AboutInfo.name} url={AboutInfo.url} btnname={AboutInfo.btnname} about={AboutInfo.about} />} />
                 <Route path="*" element=<Navigate to="/" replace={true} /> />
             </Routes>
+
         </>
     );
 };
