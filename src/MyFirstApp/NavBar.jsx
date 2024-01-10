@@ -4,7 +4,7 @@ import "./NavBar.css";
 
 const NavBar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-black fixed-top">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-black">
       <div className="container-fluid">
         <span className="navbar-brand mb-0 h1">One-For-All</span>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
