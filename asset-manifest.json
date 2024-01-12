@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/One-For-All/static/css/main.5d05e92d.css",
-    "main.js": "/One-For-All/static/js/main.934231bb.js",
+    "main.css": "/One-For-All/static/css/main.af6400a6.css",
+    "main.js": "/One-For-All/static/js/main.ed5e8396.js",
     "static/media/Bankoffers.gif": "/One-For-All/static/media/Bankoffers.b0049479d16f7f431fa0.gif",
+    "static/media/Home.png": "/One-For-All/static/media/Home.293ff3796638b489454c.png",
     "static/media/Os.gif": "/One-For-All/static/media/Os.8ac506053dd20ec29afe.gif",
     "static/media/Hotels.gif": "/One-For-All/static/media/Hotels.643c3232ad75a9d444e4.gif",
     "static/media/Wow.gif": "/One-For-All/static/media/Wow.4fabef46f32ca984c7e4.gif",
@@ -35,6 +36,7 @@
     "static/media/AliExpress.gif": "/One-For-All/static/media/AliExpress.41249ee6f93ea1c09dd1.gif",
     "static/media/Happilo.jpg": "/One-For-All/static/media/Happilo.00e03549c611900641ef.jpg",
     "static/media/TATACliq.gif": "/One-For-All/static/media/TATACliq.4523449ef2329a8c84f4.gif",
+    "static/media/favicon.ico": "/One-For-All/static/media/favicon.135389e97111d5f5cdc9.ico",
     "static/media/Boult.png": "/One-For-All/static/media/Boult.bffefcae9dd1a7a6cc9a.png",
     "static/media/Fastrack.gif": "/One-For-All/static/media/Fastrack.8659eae84149185782db.gif",
     "static/media/Carlton.gif": "/One-For-All/static/media/Carlton.8cde92dd32289cd6bc88.gif",
@@ -45,11 +47,11 @@
     "static/media/Swiggy.gif": "/One-For-All/static/media/Swiggy.e2ebc64b29caf9dd1cc0.gif",
     "static/media/Freshtohome.gif": "/One-For-All/static/media/Freshtohome.d1dad04e6cb26bb6e7b8.gif",
     "index.html": "/One-For-All/index.html",
-    "main.5d05e92d.css.map": "/One-For-All/static/css/main.5d05e92d.css.map",
-    "main.934231bb.js.map": "/One-For-All/static/js/main.934231bb.js.map"
+    "main.af6400a6.css.map": "/One-For-All/static/css/main.af6400a6.css.map",
+    "main.ed5e8396.js.map": "/One-For-All/static/js/main.ed5e8396.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d05e92d.css",
-    "static/js/main.934231bb.js"
+    "static/css/main.af6400a6.css",
+    "static/js/main.ed5e8396.js"
   ]
 }
