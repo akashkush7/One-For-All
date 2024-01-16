@@ -10,7 +10,7 @@ const App = () => {
     return (
         <>
             <NavBar />
-            <Routes>
+            <Routes >
                 <Route exact path='/' element={<Common name={HomeInfo.name} url={HomeInfo.url} btnname={HomeInfo.btnname} about={HomeInfo.about} />} />
                 <Route exact path='/services' element={<Services name={Data} title="Our Services" about="Explore all Services" />} />
                 <Route exact path='/services/os' element={<Services name={OperatingSystems} title={Data[0].title} about={Data[0].about} />} />
