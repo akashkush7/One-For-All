@@ -7,11 +7,10 @@ import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import ScrollToTop from './MyFirstApp/ScrollToTop';
 
 
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='https://akashkush7.github.io/One-For-All'>
       <ScrollToTop />
       <App />
     </BrowserRouter>
